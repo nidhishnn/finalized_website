@@ -94,7 +94,7 @@ export default function Home() {
                 <p>
                   I am a researcher at the intersection of artificial intelligence, healthcare, and operational efficiency. 
                   My work centers on leveraging robust machine learning models, causal inference techniques, and statistics 
-                  methods to improve decision-making. I'm particularly interested in how data and AI can enhance 
+                  methods to improve decision-making. I am particularly interested in how data and AI can enhance 
                   patient-centric medical care and delivery.
                 </p>
 
