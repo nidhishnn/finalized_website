@@ -11,7 +11,7 @@ export default function Home() {
               <a href="#" className="text-gray-900 font-medium hover:text-blue-600 transition-colors">
                 Home
               </a>
-              <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="text-gray-600 hover:text-blue-600 transition-colors">
+              <a href="#" className="text-gray-600 hover:text-blue-600 transition-colors">
                 CV
               </a>
             </div>
