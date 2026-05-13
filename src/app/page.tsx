@@ -92,10 +92,10 @@ export default function Home() {
               
               <div className="space-y-6 text-gray-700 leading-relaxed">
                 <p>
-                  I am a researcher at the intersection of artificial intelligence, healthcare, and operational efficiency. 
-                  My work centers on leveraging robust machine learning models, causal inference techniques, and statistics 
-                  methods to improve decision-making. I am particularly interested in how data and AI can enhance 
-                  patient-centric medical care and delivery.
+                  I am a researcher at the intersection of artificial intelligence, organizational behavior, and healthcare. 
+                  My work centers on leveraging robust machine learning models, causal inference techniques, and statistical 
+                  methods to improve decision-making. I am particularly interested in how data-driven AI systems and 
+                  intelligent agents can advance patient-centered care, shape user trust, and improve organizational performance.
                 </p>
 
                 <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">
@@ -105,11 +105,11 @@ export default function Home() {
                 <ul className="space-y-3 text-gray-700 text-sm">
                   <li className="flex items-start">
                     <span className="text-blue-600 mr-2">•</span>
-                    <span><strong>Ph.D. Student, Information Systems</strong> - The University of Texas at Austin McCombs School of Business, In Progress</span>
+                    <span><strong>Ph.D. Student, Information Systems</strong> - The University of Texas at Austin, McCombs School of Business, In Progress</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-blue-600 mr-2">•</span>
-                    <span><strong>Master of Business Analytics</strong> - Massachusetts Institute of Technology (MIT)</span>
+                    <span><strong>Master of Business Analytics (MBAn)</strong> - Massachusetts Institute of Technology (MIT), <em>2025</em></span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-blue-600 mr-2">•</span>
@@ -117,7 +117,7 @@ export default function Home() {
                   </li>
                   <li className="flex items-start">
                     <span className="text-blue-600 mr-2">•</span>
-                    <span><strong>Bachelor of Science and Arts (B.S.A.) in Mathematics</strong> - The University of Texas at Austin, <em>2024</em></span>
+                    <span><strong>Bachelor of Science and Arts (B.S.A.)</strong> - Mathematics, The University of Texas at Austin, <em>2024</em></span>
                   </li>
                 </ul>
               </div>
